@@ -1,0 +1,10 @@
+.Home {
+  width: 300px;
+  height: 70vh;
+  background: rgb(186, 186, 186);
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
